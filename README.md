@@ -84,3 +84,6 @@ Percentagem de ácido acético extraído no extrato (%): 90
 ## 📄 Licença
 
 Este projeto é de uso livre para fins educacionais e acadêmicos.
+=======
+# mass-balance-acid-acetic
+>>>>>>> 3981bf5c2d1db90a6165e56b475229843a1f0b77
